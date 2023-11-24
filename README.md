@@ -1,10 +1,12 @@
 # stockpredmacd
 
-# Stock Price Prediction and Analysis
+# Stock Price Analysis with LSTM and MACD Signals
 
 ## Overview
 
-This repository hosts an exploratory data science project focused on analyzing and predicting stock price movements, particularly for NVIDIA Corporation (NVDA). The project incorporates machine learning techniques, traditional technical indicators like Moving Average Convergence-Divergence (MACD), and modern machine learning models, specifically Long Short-Term Memory (LSTM) networks.
+This repository hosts an exploratory data science project focused on analyzing and predicting stock price movements, particularly for NVIDIA Corporation (NVDA). The project incorporates machine learning techniques, traditional technical indicators like Moving Average Convergence-Divergence (MACD), and modern machine learning models, specifically Long Short-Term Memory (LSTM) networks.  This data science project aims to explore the application of machine learning, specifically Long Short-Term Memory (LSTM) networks, in predicting stock price movements. The analysis focuses on NVIDIA Corporation (NVDA) stock, utilizing historical stock data obtained through the `yfinance` Python package for stock data  retrieval and incorporating tools like Moving Average Convergence-Divergence (MACD) and Long Short-Term Memory (LSTM) networks, the project aims to provide insights for potential investors. Additionally, there is a Streamlit representation of this process available, allowing users to interactively explore the analysis by running the `app.py` script.
+
+The project is exclusively educational and exploratory, with a focus on fostering understanding and experimentation. It is important to note that this initiative is not intended for providing investment advice or making actual investment decisions.
 
 ### Features
 
