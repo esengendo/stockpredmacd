@@ -32,13 +32,22 @@ Trains and evaluates the LSTM model.
 The saved model (my_lstm_model.keras) is loaded for backtesting.
 
 ### Project Files
+
+
 nvda.csv: Historical stock data for NVIDIA Corporation.
+
 X_backtest.csv: Feature data for backtesting.
+
 y_backtest.csv: Target data for backtesting.
+
 scaler.joblib: The scaler used in the project.
+
 stockpred.ipynb: The full Jupyter notebook for the project.
+
 app.py: Streamlit app for interactive exploration.
+
 my_lstm_model.keras: Saved LSTM model used for backtesting.
+
 
 ### Conclusion
 In conclusion, this educational and exploratory project provides insights into the application of both traditional technical indicators like MACD and modern machine learning models such as LSTM networks for stock price prediction. Interactive tools, such as the Streamlit app, enhance the accessibility of the analysis, allowing users to engage interactively with the findings. Please note that this project is not intended for providing investment advice or making actual investment decisions.
