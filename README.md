@@ -50,7 +50,9 @@ my_lstm_model.keras: Saved LSTM model used for backtesting.
 
 
 ### Conclusion
-In conclusion, this educational and exploratory project provides insights into the application of both traditional technical indicators like MACD and modern machine learning models such as LSTM networks for stock price prediction. Interactive tools, such as the Streamlit app, enhance the accessibility of the analysis, allowing users to engage interactively with the findings. Please note that this project is not intended for providing investment advice or making actual investment decisions.
+In conclusion, this educational and exploratory project provides insights into the application of both traditional technical indicators like MACD and modern machine learning models such as LSTM networks for stock price prediction. Interactive tools, such as the Streamlit app, enhance the accessibility of the analysis, allowing users to engage interactively with the findings. 
+
+Please note that this project is not intended to provide investment advice or make actual investment decisions.
 
 
 ### Running the Interactive App
