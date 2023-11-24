@@ -1,5 +1,3 @@
-# stockpredmacd
-
 # Stock Price Analysis with LSTM and MACD Signals
 
 ## Overview
