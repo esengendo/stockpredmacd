@@ -10,6 +10,10 @@ Additionally, there is a Streamlit representation of this process available, all
 
 The project is exclusively educational and exploratory, with a focus on fostering understanding and experimentation. It is important to note that this initiative is not intended for providing investment advice or making actual investment decisions.
 
+## Objective
+
+To conduct a comprehensive analysis and prediction of NVIDIA Corporation (NVDA) stock prices using LSTM, and classical technical indicators such as MACD. The project seeks to leverage historical data and interactive tools like Streamlit for an educational exploration into the capabilities of predictive analytics in stock market trends, aiming to enhance understanding and application of data science in financial analysis without the intent of providing investment guidance.
+
 ### Features
 
 - **Data Retrieval:** Utilizes `nvda.csv`, `X_backtest.csv`, and `y_backtest.csv` for historical stock data.
